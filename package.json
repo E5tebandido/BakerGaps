@@ -1,0 +1,29 @@
+{
+  "name": "bakergapsaccount",
+  "version": "1.0.0",
+  "description": "baker gaps accounting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teban18/BakerGaps.git"
+  },
+  "keywords": [
+    "accounting",
+    "baker",
+    "accounts"
+  ],
+  "author": "Estebandido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teban18/BakerGaps/issues"
+  },
+  "homepage": "https://github.com/Teban18/BakerGaps#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1"
+  }
+}
