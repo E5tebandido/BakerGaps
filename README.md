@@ -1,2 +1,3 @@
 # BakerGaps
-Repository for BakerGaps accounting
+
+¡Design of webpage for a bakery!
